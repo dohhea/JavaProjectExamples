@@ -13,3 +13,6 @@ Java project samples that I use for my classes
 ---
 4. NetworkOthello
   * Network Othello program using Sockets over TCP/IP
+---
+5. DBWithPrinting
+  * A DB application with Preview/Printing functions
